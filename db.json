@@ -1,7 +1,23 @@
 {
-	"page1": "Page 1 text here",
-	"page2": "Page 2 text here",
-	"page3": "Page 3 text here",
-	"page4": "Page 4 text here",
+	"pages":[
+		{
+			"id": 1,
+			"contents": "Page 1 text"
+		},
+		{
+			"id": 2,
+			"contents": "Page 2 text"
+		},
+		{
+			"id": 3,
+			"contents": "Page 3 text"
+		},
+		{
+			"id": 4,
+			"contents": "Page 4 text"
+		}
+	],
+	"variables":{
 	"pedestalObject": 0
+	}
 }
