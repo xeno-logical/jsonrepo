@@ -1,23 +1,20 @@
 {
-	"pages":[
-		{
-			"id": 1,
-			"contents": "Page 1 text"
-		},
-		{
-			"id": 2,
-			"contents": "Page 2 text"
-		},
-		{
-			"id": 3,
-			"contents": "Page 3 text"
-		},
-		{
-			"id": 4,
-			"contents": "Page 4 text"
-		}
-	],
-	"variables":{
-	"pedestalObject": 0
+	"Page1": {
+	  "Line1": "Page1 Line1"
+	},
+	"Page2": {
+	  "Line1": "Page2 Line1"
+	},
+	"Page3": {
+	  "Line1": "Page3 Line1"
+	},
+	"Page4": {
+	  "Line1": "Page4 Line1"
+	},
+	"Page5": {
+	  "Line1": "Page5 Line1"
+	},
+	"variables": {
+	  "pedestalObject": 0
 	}
-}
+  }
